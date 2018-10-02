@@ -46,7 +46,7 @@ The _tk Project on Github - https://github.com/Themekraft/_tk/
 
 *************************************************************
 
-
+https://code.tutsplus.com/tutorials/creating-single-page-applications-with-wordpress-and-angularjs--cms-25095
 Thanks for using _tk Theme.
 We hope you enjoy it!
 
